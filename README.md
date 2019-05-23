@@ -21,6 +21,6 @@ It's an basic application for sale and purchase(OLX)
 
 The user have to import the .sql file and put the folder under the htdocs folder in xampp or wampp
 
-
+This application is build using PHP ,Mysql ,HTML and bootstrap
 
 Thank you ! 
